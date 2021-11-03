@@ -1,23 +1,21 @@
-# NFT-Cargo-Metadata-Bulk-Update
-A solution to update all collectibles at once with a CSV including URL + metadata
+# NFT-Cargo-Metadata-Bulk-Update</br>
+A solution to update all collectibles at once with a CSV including URL + metadata</br>
 
-
-
-Project 		NO MORE TV project (NMTV)
-Developer	  syed_aj
-		        https://www.fiverr.com/
+Project 		NO MORE TV project (NMTV)</br>
+Developer	  	syed_aj</br>
+		        https://www.fiverr.com/syed_aj</br>
 
 -------------------------------------------------------------------------------------
 
-HOW IT WORKS
+<strong>HOW IT WORKS</strong>
 
 FIRST
-install chromedriver + fill provided .xlsx including 
-A/ collectibles link in dashboard 
-B/ metadata 
-... backup everything first (you should have done that before minting NFTs anyway).
-
-STEPS:
+install chromedriver + fill provided .xlsx including</br>
+A/ collectibles link in dashboard </br>
+B/ metadata </br>
+... backup everything first (you should have done that before minting NFTs anyway).</br>
+</br>
+<strong>STEPS:</strong></br>
 01. Command: go to the bot folder 
 02. Execute the 'main.py' file in Python (command: python3 main.py)
 03. Wait for Chrome Driver to launch.
