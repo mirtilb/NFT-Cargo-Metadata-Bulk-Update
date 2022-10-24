@@ -1,10 +1,10 @@
 # NFT-Cargo-Metadata-Bulk-Update</br>
-A solution to update all collectibles at once with a CSV including URL + metadata</br>
 
-Project 		NO MORE TV project (NMTV)</br>
-Developer	  	syed_aj</br>
-		        https://www.fiverr.com/syed_aj</br>
-
+Goal        		A solution to update all collectibles at once with a CSV including URL + metadata</br>
+Project			No More TV (NMTV)</br>
+Developer		syed_aj</br>
+			https://github.com/SyedAzeemJaved</br>
+			https://www.fiverr.com/syed_aj</br>
 -------------------------------------------------------------------------------------
 
 <strong>HOW IT WORKS</strong>
